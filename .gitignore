@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -22,3 +23,23 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+=======
+# Salida generada por SchemaSpy
+output/
+
+# Credenciales y material sensible local
+schemaspy.properties
+wallet/
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Sistema / IDE
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
+
+>>>>>>> 90d2f10 (Initial commit: SchemaSpy Oracle Autonomous documentation project)

@@ -1,0 +1,8 @@
+-t orathin
+-db dboracle_low
+-u ADMIN
+-p Cazafantasmas32@
+-o output
+-dp ojdbc11-23.3.0.23.09.jar
+-host localhost
+-port 1522

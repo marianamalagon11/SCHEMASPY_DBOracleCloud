@@ -1,0 +1,12 @@
+# Copiar este archivo como schemaspy.properties y ajustar las rutas locales
+schemaspy.t=C:/ruta/al/proyecto/schemaspy/oracle-atp.properties
+schemaspy.db=bases_high
+schemaspy.u=ADMIN
+schemaspy.p=CAMBIAR_PASSWORD
+schemaspy.s=ADMIN
+schemaspy.cat=%
+schemaspy.o=output
+schemaspy.dp=C:/ruta/al/proyecto/schemaspy/ojdbc11-23.3.0.23.09.jar
+schemaspy.gv=C:/Program Files/Graphviz
+oracle.net.tns_admin=C:/ruta/al/proyecto/schemaspy/wallet
+
