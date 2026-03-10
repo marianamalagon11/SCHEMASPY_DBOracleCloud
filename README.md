@@ -1,5 +1,4 @@
-
-# SchemaSpy para Oracle Autonomous Database
+# SCHEMASPY PARA BASE DE DATOS EN ORACLE CLOUD
 ## 1. Objetivo
 Este proyecto genera documentación técnica navegable del esquema de una base de datos Oracle Autonomous Database usando `SchemaSpy`.
 El proceso está orientado a inspección estructural del modelo relacional. No crea registros de negocio, no modifica tablas y no ejecuta operaciones DML o DDL sobre la base de datos. Su función es leer metadatos y construir una salida HTML local.
