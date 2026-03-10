@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SCHEMASPY_DBOracleCloud
 =======
 ﻿# SchemaSpy para Oracle Autonomous Database
@@ -290,6 +290,3 @@ git commit -m "Initial commit: SchemaSpy Oracle Autonomous documentation project
 git remote add origin <URL_DEL_REPOSITORIO>
 git push -u origin main
 ```
-
-Si el repositorio remoto aún no existe, primero debe crearse en la plataforma elegida y luego asociarse con `git remote add origin`.
->>>>>>> 90d2f10 (Initial commit: SchemaSpy Oracle Autonomous documentation project)
