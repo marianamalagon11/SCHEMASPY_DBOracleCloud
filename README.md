@@ -1,6 +1,5 @@
 
 # SCHEMASPY_DBOracleCloud
-=======
 ﻿## SchemaSpy para Oracle Autonomous Database
 ## 1. Objetivo
 Este proyecto genera documentación técnica navegable del esquema de una base de datos Oracle Autonomous Database usando `SchemaSpy`.
